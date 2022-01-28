@@ -29,6 +29,7 @@ Citizen.CreateThread(function()
                         Citizen.Wait(10)
                         handsFull = false
                     end
+
                 end
             end
         end
