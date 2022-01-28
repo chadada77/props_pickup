@@ -1,6 +1,6 @@
 # props_pickup
 
-![resmon](https://forum.cfx.re/uploads/default/original/4X/9/d/e/9de26b6b54512318b6ba383798784133f67522ce.jpeg)
+<img src="https://forum.cfx.re/uploads/default/original/4X/9/d/e/9de26b6b54512318b6ba383798784133f67522ce.jpeg" width="60%">
 
 [NOTES]
 
