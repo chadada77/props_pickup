@@ -8,9 +8,13 @@ description "props_pickup"
 
 version "1.0.0"
 
-client_script {
-    "main.lua", 
-    "@utility_lib/client/native.lua"
+client_scripts {
+    "@utility_lib/client/native.lua",
+    'main.lua'
 }
 
 shared_script "config.lua"
+
+dependencies {
+    "utility_lib"    
+}
